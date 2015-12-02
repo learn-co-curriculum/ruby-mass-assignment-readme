@@ -128,3 +128,5 @@ explain send("#{property_name}=", property_value)
 where the 2nd argument is the argument passed to the method
 
 this is called dynamic dispatch and is a key technique in metaprogramming.
+
+<a href='https://learn.co/lessons/ruby-mass-assignment-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
