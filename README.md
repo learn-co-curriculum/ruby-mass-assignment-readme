@@ -129,4 +129,4 @@ where the 2nd argument is the argument passed to the method
 
 this is called dynamic dispatch and is a key technique in metaprogramming.
 
-<a href='https://learn.co/lessons/ruby-mass-assignment-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-mass-assignment-readme' title='Ruby Mass Assignment'>Ruby Mass Assignment</a> on Learn.co and start learning to code for free.</p>
